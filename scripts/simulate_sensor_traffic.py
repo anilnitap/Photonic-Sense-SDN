@@ -1,6 +1,3 @@
-# simulate_sensor_traffic.py
-# Generates synthetic SDN sensor events for evaluation
-
 import pandas as pd
 import random
 from datetime import datetime
