@@ -2,7 +2,7 @@
 
 This repository contains the synthetic dataset and simulation script used in the research paper:
 
-**"Reconfigurable Plasmonic Sensors on Silicon Nitride Waveguide for Smart Optical SDN Networks"**  
+**On-chip Plasmonic framework for scalable real1 time sensor networks2**  
 _(Submitted to JOSA B, 2025)_
 
 ---
