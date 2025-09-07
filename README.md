@@ -2,7 +2,7 @@
 
 This repository contains the synthetic dataset and simulation script used in the research paper:
 
-**On-chip Plasmonic framework for scalable real1 time sensor networks2**  
+**On-chip Plasmonic framework for scalable real1 time sensor networks**  
 _(Submitted to JOSA B, 2025)_
 
 ---
